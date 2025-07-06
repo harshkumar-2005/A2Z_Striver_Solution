@@ -1,0 +1,13 @@
+# Ignore all Windows executable files
+*.exe
+
+# Ignore object and binary files
+*.o
+*.out
+*.obj
+*.class
+
+# Miscellaneous
+*.log
+*.DS_Store
+*.swp
