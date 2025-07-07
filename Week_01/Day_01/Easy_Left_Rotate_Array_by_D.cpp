@@ -16,6 +16,11 @@ vector<int> RotateBy_D(vector<int> arr, int D) //D is number of rotaion required
 {
     int n = arr.size();
 
+    if (n == 0) return arr;
+
+    D = D % n; // Fix for D > n
+    if (D == 0) return arr; // No rotation needed
+    
     // We will use reversal algorithm
     reverse(arr,0,D-1);
     reverse(arr,D,n-1);
