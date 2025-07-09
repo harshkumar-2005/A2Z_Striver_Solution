@@ -1,0 +1,254 @@
+#  Striver A2Z Progress Log
+
+
+**Total Solved Problems (CPP):** 10
+
+**Total Compiled Files (EXE):** 10
+
+
+---
+
+## Week_01
+### Day_01 - 6 Problem(s), 6 Executables
+- Easy_Check_Array_is_Sorted
+- Easy_Largest_Element
+- Easy_Left_Rotate_Array_by_D
+- Easy_Left_Rotate_Array_by_One
+- Easy_Remove_duplicates_Sorted
+- Easy_Second_Largest_Element
+
+### Day_02 -  No problems solved.
+
+### Day_03 - 4 Problem(s), 4 Executables
+- Easy_Find_missing_number
+- Easy_Linear_Search
+- Easy_Move_Zeros_to_End
+- Easy_Union_of_two_sorted_arrays
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_02
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_03
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_04
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_05
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_06
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_07
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_08
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_09
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_10
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_11
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_12
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
+## Week_13
+### Day_01 -  No problems solved.
+
+### Day_02 -  No problems solved.
+
+### Day_03 -  No problems solved.
+
+### Day_04 -  No problems solved.
+
+### Day_05 -  No problems solved.
+
+### Day_06 -  No problems solved.
+
+### Day_07 -  No problems solved.
+
+
+---
+
