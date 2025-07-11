@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 17
+**Total Solved Problems (CPP):** 21
 
-**Total Compiled Files (EXE):** 15
+**Total Compiled Files (EXE):** 19
 
 
 ---
@@ -36,7 +36,11 @@
 - sortArrayOfZeroOnesAndTwo
 - twoSum
 
-### Day_06 -  No problems solved.
+### Day_06 - 4 Problem(s), 4 Executables
+- kadaneAlgorithm
+- leadersOfAnArray
+- rearrangeArrayElementsBySign
+- stockBuySell_I
 
 ### Day_07 -  No problems solved.
 
