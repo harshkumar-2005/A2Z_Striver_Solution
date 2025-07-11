@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 10
+**Total Solved Problems (CPP):** 17
 
-**Total Compiled Files (EXE):** 10
+**Total Compiled Files (EXE):** 15
 
 
 ---
@@ -25,9 +25,16 @@
 - Easy_Move_Zeros_to_End
 - Easy_Union_of_two_sorted_arrays
 
-### Day_04 -  No problems solved.
+### Day_04 - 4 Problem(s), 2 Executables
+- Count_Maximum_Consecutive_Ones_in_the_array
+- find_unique_among_duplicates
+- longestSubarrayWithSum_K
+- longestSubarrayWithSum_K_PositiveAndNegative
 
-### Day_05 -  No problems solved.
+### Day_05 - 3 Problem(s), 3 Executables
+- majorityElement_I
+- sortArrayOfZeroOnesAndTwo
+- twoSum
 
 ### Day_06 -  No problems solved.
 
