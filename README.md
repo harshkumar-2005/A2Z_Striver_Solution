@@ -6,6 +6,7 @@ This repo contains my solutions for the A2Z Striver DSA Sheet. I'm solving this 
 - Organized week-wise and day-wise
 - Problems tagged as Easy, Medium, Hard
 - Languages used: C++
+- Skip days are not included 
 
 ## 📅 Timeline
 - Start Date: 2025-07-07
