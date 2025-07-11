@@ -6,39 +6,29 @@ using namespace std;
 
 vector<int> rearrangeArray(vector<int>& nums) 
 {
-    vector<int> pos;
-    vector<int> neg;
+    int n = nums.size();
+
     
-    for(int i=0; i<nums.size(); i++)
+    vector<int> ans(n,0);
+
+    int posindx = 0;
+    int negindx = 1;
+
+    for(int i=0; i<n; i++)
     {
-        if(nums[i] > 0) //we assume array will not have zero
+        if(nums[i] > 0)
         {
-            pos.push_back(nums[i]);
+            ans[posindx] = nums[i];
+            posindx += 2; 
         }
         else
         {
-            neg.push_back(nums[i]);
+            ans[negindx] = nums[i];
+            negindx += 2;
         }
     }
 
-    int i = 1;
-    int j = 0;
-
-    nums[0] = pos[0];
-    for(int x=1; x<nums.size(); x++)
-    {
-
-        if(x%2 == 0)
-        {
-            nums[x] = pos[i++];
-        }
-        else
-        {
-            nums[x] = neg[j++];
-        }
-    }
-
-    return nums;
+    return ans;
 }
 
 int main()
@@ -51,6 +41,8 @@ int main()
     {
         cout<<x<<" ";
     }
+
+    // output:- 2 -1 4 -3 5 -4 
 
     return 0;
 }
