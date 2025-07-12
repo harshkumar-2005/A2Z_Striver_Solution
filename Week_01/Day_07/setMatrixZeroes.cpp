@@ -71,6 +71,44 @@ void setZeroes(vector<vector<int>>& matrix) {
 
 int main()
 {
+    vector<vector<int>> matrix = {{1,1,1},{1,0,1},{1,1,1}};
+
+    cout<<"Before calling this function";cout<<endl;
+    for(int i=0; i<matrix.size(); i++)
+    {
+        for(int j=0; j<matrix[0].size(); j++)
+        {
+            cout<<matrix[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+
+    cout<<endl;
+
+    setZeroes(matrix); //function call 
+
+    cout<<"After calling function.";cout<<endl;
+
+    for(int i=0; i<matrix.size(); i++)
+    {
+        for(int j=0; j<matrix[0].size(); j++)
+        {
+            cout<<matrix[i][j]<<" ";
+        }
+        cout<<endl;
+    }
 
     return 0;
 }
+
+// Output:-
+
+// Before calling this function
+// 1 1 1 
+// 1 0 1 
+// 1 1 1 
+
+// After calling function.
+// 1 0 1 
+// 0 0 0 
+// 1 0 1 
