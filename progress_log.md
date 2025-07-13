@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 21
+**Total Solved Problems (CPP):** 26
 
-**Total Compiled Files (EXE):** 19
+**Total Compiled Files (EXE):** 23
 
 
 ---
@@ -42,7 +42,12 @@
 - rearrangeArrayElementsBySign
 - stockBuySell_I
 
-### Day_07 -  No problems solved.
+### Day_07 - 5 Problem(s), 4 Executables
+- longestConsecutiveSequenceInAnArray
+- nextPermutation
+- printTheMatrixInSpiralManner
+- rotateMatrixBy90Degrees
+- setMatrixZeroes
 
 
 ---
