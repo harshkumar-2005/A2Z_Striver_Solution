@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 26
+**Total Solved Problems (CPP):** 32
 
-**Total Compiled Files (EXE):** 23
+**Total Compiled Files (EXE):** 30
 
 
 ---
@@ -42,7 +42,7 @@
 - rearrangeArrayElementsBySign
 - stockBuySell_I
 
-### Day_07 - 5 Problem(s), 4 Executables
+### Day_07 - 5 Problem(s), 5 Executables
 - longestConsecutiveSequenceInAnArray
 - nextPermutation
 - printTheMatrixInSpiralManner
@@ -53,9 +53,15 @@
 ---
 
 ## Week_02
-### Day_01 -  No problems solved.
+### Day_01 - 3 Problem(s), 3 Executables
+- 3Sum
+- 4sum
+- majorityElement_II
 
-### Day_02 -  No problems solved.
+### Day_02 - 3 Problem(s), 3 Executables
+- countSubarraysWithGivenXOR_K
+- findTheRepeatingAndMissingNumber
+- largestSubarrayWithSumZero
 
 ### Day_03 -  No problems solved.
 
