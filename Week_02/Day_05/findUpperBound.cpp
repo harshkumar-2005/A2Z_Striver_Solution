@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 // The array of nums is already sorted
 int upperBound(vector<int> &nums, int x)
 {
