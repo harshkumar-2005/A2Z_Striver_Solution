@@ -7,49 +7,31 @@
 
 using namespace std;
 
-
-int binarySearch(vector<int> &arr, int target)
-{
-    int low =0;
-    int high = arr.size() - 1;
-
-    while(low <= high)
-    {
-        int mid = low + (high - low) / 2;
-
-        if(arr[mid] == target)
-        {
-            return mid;
-        }
-        else if(arr[mid] > target)
-        {
-            high = mid - 1;
-        }
-        else{
-            low = mid + 1;
-        }
-    }
-
-    return 0;
-}
-
+// The array arr is already sorted
 int findLowerBound(vector<int> &arr, int x)
 {
-    sort(arr.begin(), arr.end());
+   int n = arr.size();
+   
+   int low = 0;
+   int high = n-1;
+   int ans = n;
 
-    int found = -1;
+   while(low <= high)
+   {
+    int mid = (low + high) / 2;
 
-    // Binary search 
-    found = binarySearch(arr, x-1);
-
-    if(found != 0)
+    if(arr[mid] >= x)
     {
-        return arr[found - 1];
+        ans = mid;
+        high = mid - 1;
     }
+    else
+    {
+        low = mid + 1;
+    }
+   }
 
-
-    return x;
-
+   return ans;
 }
 
 int main()
