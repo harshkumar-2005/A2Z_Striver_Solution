@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 32
+**Total Solved Problems (CPP):** 42
 
-**Total Compiled Files (EXE):** 30
+**Total Compiled Files (EXE):** 37
 
 
 ---
@@ -63,13 +63,23 @@
 - findTheRepeatingAndMissingNumber
 - largestSubarrayWithSumZero
 
-### Day_03 -  No problems solved.
+### Day_03 - 2 Problem(s), 2 Executables
+- mergeOverlappingSubintervals
+- mergeTwoSortedArraysWithoutExtraSpace
 
-### Day_04 -  No problems solved.
+### Day_04 - 5 Problem(s), 2 Executables
+- countInversions
+- findLowerBound
+- maximumProductSubarrayInAnArray
+- reversePairs
+- searchXInSortedArray
 
-### Day_05 -  No problems solved.
+### Day_05 - 1 Problem(s), 1 Executables
+- findUpperBound
 
-### Day_06 -  No problems solved.
+### Day_06 - 2 Problem(s), 2 Executables
+- CountOccurrencesOfANumberInASortedArrayWithDuplicates
+- firstAndLastOccurrence
 
 ### Day_07 -  No problems solved.
 
