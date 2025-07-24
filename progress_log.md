@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 42
+**Total Solved Problems (CPP):** 53
 
-**Total Compiled Files (EXE):** 37
+**Total Compiled Files (EXE):** 45
 
 
 ---
@@ -81,19 +81,30 @@
 - CountOccurrencesOfANumberInASortedArrayWithDuplicates
 - firstAndLastOccurrence
 
-### Day_07 -  No problems solved.
+### Day_07 - 3 Problem(s), 2 Executables
+- findMinimumInRotatedSortedArray
+- findPeakElement
+- searchInRotatedSortedArray_I
 
 
 ---
 
 ## Week_03
-### Day_01 -  No problems solved.
+### Day_01 - 1 Problem(s), 1 Executables
+- singleElementInSortedArray
 
-### Day_02 -  No problems solved.
+### Day_02 - 1 Problem(s), 1 Executables
+- FindOutHowManyTimesTheArrayIsRotated
 
-### Day_03 -  No problems solved.
+### Day_03 - 1 Problem(s), 1 Executables
+- FindSquareRootOfANumber
 
-### Day_04 -  No problems solved.
+### Day_04 - 4 Problem(s), 3 Executables
+- FindNthRootOfANumber
+- findSmallestDivisor
+- kokoEatingBananas
+- minimumDaysToMake_M_Bouquets
+
 
 ### Day_05 -  No problems solved.
 
