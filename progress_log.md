@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 53
+**Total Solved Problems (CPP):** 57
 
-**Total Compiled Files (EXE):** 45
+**Total Compiled Files (EXE):** 51
 
 
 ---
@@ -99,24 +99,28 @@
 ### Day_03 - 1 Problem(s), 1 Executables
 - FindSquareRootOfANumber
 
-### Day_04 - 4 Problem(s), 3 Executables
+### Day_04 - 4 Problem(s), 4 Executables
 - FindNthRootOfANumber
 - findSmallestDivisor
 - kokoEatingBananas
 - minimumDaysToMake_M_Bouquets
 
+### Day_05 - 1 Problem(s), 1 Executables
+- KthMissingPositiveNumber
 
-### Day_05 -  No problems solved.
+### Day_06 - 1 Problem(s), 1 Executables
+- KthElementOf_2_SortedArrays
 
-### Day_06 -  No problems solved.
-
-### Day_07 -  No problems solved.
+### Day_07 - 1 Problem(s), 1 Executables
+- capacityToShipPackagesWithin_D_Days
 
 
 ---
 
 ## Week_04
-### Day_01 -  No problems solved.
+### Day_01 - 2 Problem(s), 2 Executables
+- aggressiveCows
+- bookAllocationProblem
 
 ### Day_02 -  No problems solved.
 
