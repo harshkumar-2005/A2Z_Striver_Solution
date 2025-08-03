@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 57
+**Total Solved Problems (CPP):** 68
 
-**Total Compiled Files (EXE):** 51
+**Total Compiled Files (EXE):** 61
 
 
 ---
@@ -122,17 +122,28 @@
 - aggressiveCows
 - bookAllocationProblem
 
-### Day_02 -  No problems solved.
+### Day_02 - 2 Problem(s), 2 Executables
+- findRowWithMaximum_1s
+- SearchInA2Dmatrix
 
-### Day_03 -  No problems solved.
+### Day_03 - 1 Problem(s), 1 Executables
+- splitArrayLargestSum
 
-### Day_04 -  No problems solved.
+### Day_04 - 1 Problem(s), 0 Executables
+- minimizeMaxDistanceToGasStation
 
-### Day_05 -  No problems solved.
+### Day_05 - 2 Problem(s), 2 Executables
+- medianOfTwoSortedArray
+- ValidAnagram
 
-### Day_06 -  No problems solved.
+### Day_06 - 3 Problem(s), 3 Executables
+- floorAndCeilInSortedArray
+- reverseEveryWordInAstring
+- searchInsertPosition
 
-### Day_07 -  No problems solved.
+### Day_07 - 2 Problem(s), 2 Executables
+- largestOddNumberInAString
+- longestCommonPrefix
 
 
 ---
