@@ -19,13 +19,6 @@ struct ListNode
     }
 };
 
-// Function to insert a node at the head
-ListNode* insertAtHead(ListNode* &head, int X) {
-    ListNode* temp = new ListNode(X);
-    temp->next = head;
-    head = temp;
-    return head;
-}
 
 // Given the head of a singly Linked List, return the middle node of the Linked List.
 // If the Linked List has an even number of nodes, return the second middle one.
