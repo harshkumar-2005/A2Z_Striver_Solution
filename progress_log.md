@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 68
+**Total Solved Problems (CPP):** 88
 
-**Total Compiled Files (EXE):** 61
+**Total Compiled Files (EXE):** 81
 
 
 ---
@@ -149,17 +149,37 @@
 ---
 
 ## Week_05
-### Day_01 -  No problems solved.
+### Day_01 - 2 Problem(s), 2 Executables
+- checkWhetherOneStringIsARotationOfAnother
+- sortCharactersByFrequency
 
-### Day_02 -  No problems solved.
+### Day_02 - 2 Problem(s), 2 Executables
+- removeOutermostParentheses
+- romanToInteger
 
-### Day_03 -  No problems solved.
+### Day_03 - 4 Problem(s), 4 Executables
+- deletionOfTheHeadOfLL
+- findThelengthOfTheLinkedList
+- insertionAtTheHeadOfLL
+- searchInLinkedList
 
-### Day_04 -  No problems solved.
+### Day_04 - 5 Problem(s), 5 Executables
+- detectALoop
+- findTheStartingPointInLinkedList
+- optimizedversion_FindMiddleOfLinkedList
+- reverseALinkedList_Iteratively
+- reverseALinkedList_Recurvesly
 
-### Day_05 -  No problems solved.
+### Day_05 - 4 Problem(s), 4 Executables
+- checkIfLinkedListIsPalindromeOrNot
+- deleteTheMiddleNodeInLinkedList
+- getNthNodeFromTheBackOfTheLinkedList
+- RemoveNthNodeFromTheBackOfTheLinkedList
 
-### Day_06 -  No problems solved.
+### Day_06 - 3 Problem(s), 3 Executables
+- AddOneToANumberRepresentedByLinkedList
+- AddTwoNumbersInLinkedList
+- lengthOfLoopInLL
 
 ### Day_07 -  No problems solved.
 
