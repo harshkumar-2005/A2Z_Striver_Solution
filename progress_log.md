@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 88
+**Total Solved Problems (CPP):** 104
 
-**Total Compiled Files (EXE):** 81
+**Total Compiled Files (EXE):** 97
 
 
 ---
@@ -181,25 +181,41 @@
 - AddTwoNumbersInLinkedList
 - lengthOfLoopInLL
 
-### Day_07 -  No problems solved.
+### Day_07 - 2 Problem(s), 2 Executables
+- findTheIntersectionPointOfLinkedList
+- oddFollowedByEven
 
 
 ---
 
 ## Week_06
-### Day_01 -  No problems solved.
+### Day_01 - 3 Problem(s), 3 Executables
+- insertNodeBeforeHeadInDoublyLinkedList
+- rotateALinkedList
+- sortALinkedListOfZeroOneAndTwo
 
-### Day_02 -  No problems solved.
+### Day_02 - 2 Problem(s), 2 Executables
+- deleteHeadOfDLL
+- reverseADoublyLinkedList
 
-### Day_03 -  No problems solved.
+### Day_03 - 2 Problem(s), 2 Executables
+- deleteAllOccurrencesOfAKeyInDLL
+- removeDuplicatedFromSortedDLL
 
-### Day_04 -  No problems solved.
+### Day_04 - 2 Problem(s), 2 Executables
+- findPairsWithGivenSumInDoublyLinkedList
+- reverseLinkedListInGroupOfGivenSize_K
 
-### Day_05 -  No problems solved.
+### Day_05 - 1 Problem(s), 1 Executables
+- recursionPower
 
-### Day_06 -  No problems solved.
+### Day_06 - 2 Problem(s), 2 Executables
+- countGoodNumbers
+- sortAStack
 
-### Day_07 -  No problems solved.
+### Day_07 - 2 Problem(s), 2 Executables
+- generateParentheses
+- reverseAStack
 
 
 ---
