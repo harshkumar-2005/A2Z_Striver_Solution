@@ -18,3 +18,5 @@ tempCodeRunnerFile.*
 *.txt
 
 .vscode
+
+helper.cpp
