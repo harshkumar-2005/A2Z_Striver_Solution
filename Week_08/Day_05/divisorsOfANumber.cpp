@@ -1,5 +1,6 @@
-#include<iostream>
-#include<vector>
+#include <iostream>
+#include <vector>
+#include <algorithm>  // for sort
 
 using namespace std;
 
@@ -14,9 +15,21 @@ vector<int> divisors(int n) {
     return res;
 }
 
+int main() {
+    int n;
+    cout << "Enter a number: ";
+    cin >> n;
 
-int main()
-{
+    vector<int> result = divisors(n);
+
+    // Sort the divisors before printing
+    sort(result.begin(), result.end());
+
+    cout << "Divisors of " << n << " are: ";
+    for(int d : result) {
+        cout << d << " ";
+    }
+    cout << endl;
 
     return 0;
 }
