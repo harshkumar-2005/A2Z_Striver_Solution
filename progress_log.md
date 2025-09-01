@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 104
+**Total Solved Problems (CPP):** 140
 
-**Total Compiled Files (EXE):** 97
+**Total Compiled Files (EXE):** 131
 
 
 ---
@@ -221,35 +221,69 @@
 ---
 
 ## Week_07
-### Day_01 -  No problems solved.
+### Day_01 - 2 Problem(s), 2 Executables
+- checkIfANumberIsOddOrNot
+- checkIfThe_ith_BitIsSetOrNot
 
-### Day_02 -  No problems solved.
+### Day_02 - 2 Problem(s), 2 Executables
+- generateBinaryStringsWithoutConsecutive1s
+- powerSet
 
-### Day_03 -  No problems solved.
+### Day_03 - 3 Problem(s), 3 Executables
+- print_1_to_N_UsingRecursion
+- print_N_To_1_UsingRecursion
+- sumOfFirst_N_Numbers
 
-### Day_04 -  No problems solved.
+### Day_04 - 2 Problem(s), 2 Executables
+- checkIfStringIsPalindromeOrNot
+- reverseAnArray
 
-### Day_05 -  No problems solved.
+### Day_05 - 3 Problem(s), 3 Executables
+- BinetsFormulaForFibonacci
+- CountAllSubsequencesWithSum_K
+- fibonacciNumber
 
-### Day_06 -  No problems solved.
+### Day_06 - 1 Problem(s), 1 Executables
+- checkIfThereExistsASubsequenceWithSum_K
 
-### Day_07 -  No problems solved.
+### Day_07 - 3 Problem(s), 3 Executables
+- palindromePartitioning
+- Subsets_I
+- Subsets_II
 
 
 ---
 
 ## Week_08
-### Day_01 -  No problems solved.
+### Day_01 - 2 Problem(s), 2 Executables
+- checkIfANumberIsPowerOf_2_OrNot
+- countTheNumberOfSetBits
 
-### Day_02 -  No problems solved.
+### Day_02 - 3 Problem(s), 3 Executables
+- combinationSum
+- combinationSumII
+- combinationSumIII
 
-### Day_03 -  No problems solved.
+### Day_03 - 4 Problem(s), 4 Executables
+- addMinimumBitFlipsToConvertNumber
+- divideTwoNumbersWithoutMultiplicationAndDivision
+- singleNumber_I
+- swapTwoNumbers
 
-### Day_04 -  No problems solved.
+### Day_04 - 2 Problem(s), 2 Executables
+- singleNumberIII
+- XOR_OfNumbersInAGivenRange
 
-### Day_05 -  No problems solved.
+### Day_05 - 1 Problem(s), 1 Executables
+- divisorsOfANumber
 
-### Day_06 -  No problems solved.
+### Day_06 - 6 Problem(s), 6 Executables
+- implementQueueUsingArrays
+- implementQueueUsingLinkedlist
+- implementQueueUsingStack
+- implementStackUsingArrays
+- implementStackUsingLinkedlist
+- implementStackUsingQueue
 
 ### Day_07 -  No problems solved.
 
