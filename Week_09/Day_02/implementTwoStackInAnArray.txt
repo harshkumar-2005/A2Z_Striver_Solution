@@ -1,0 +1,16 @@
+**Naive solution**:-
+
+=> We divide the array from middle use first half as Stack1 and another half as Stack2.
+
+=>Inefficient use of space.
+If we add 5 items to the Stack1, & no item in Stack2, then we cannot add more items to Stack1 even if we have space in the array.
+
+**Efficient solution**:-
+
+┌────────────────────────┐
+│->                    <-│
+└────────────────────────┘
+
+=> Begin Both stack from the two corners of the array.
+
+=> Now we can insert items in any stack as long as we have some space.
