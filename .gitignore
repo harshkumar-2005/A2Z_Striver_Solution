@@ -16,6 +16,7 @@
 tempCodeRunnerFile.*
 
 *.txt
+!implementTwoStackInAnArray.txt
 
 .vscode
 
