@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 140
+**Total Solved Problems (CPP):** 158
 
-**Total Compiled Files (EXE):** 131
+**Total Compiled Files (EXE):** 149
 
 
 ---
@@ -291,33 +291,51 @@
 ---
 
 ## Week_09
-### Day_01 -  No problems solved.
+### Day_01 - 2 Problem(s), 2 Executables
+- balancedParanthesis
+- implementMinStack
 
-### Day_02 -  No problems solved.
+### Day_02 - 2 Problem(s), 2 Executables
+- infixToPostFixConversion
+- prefixToInfixConversion
 
-### Day_03 -  No problems solved.
+### Day_03 - 3 Problem(s), 3 Executables
+- infixToPrefixConversion
+- postfixToPrefixConversion
+- prefixToPostfixConversion
 
-### Day_04 -  No problems solved.
+### Day_04 - 2 Problem(s), 2 Executables
+- nextGreaterElement
+- NextGreaterElement_2
 
-### Day_05 -  No problems solved.
+### Day_05 - 1 Problem(s), 1 Executables
+- nextSmallerElement
 
-### Day_06 -  No problems solved.
+### Day_06 - 2 Problem(s), 2 Executables
+- largestRectangularAreaInAHistogram
+- trappingRainwater
 
-### Day_07 -  No problems solved.
+### Day_07 - 1 Problem(s), 1 Executables
+- asteroidCollision
 
 
 ---
 
 ## Week_10
-### Day_01 -  No problems solved.
+### Day_01 - 1 Problem(s), 1 Executables
+- removeKDigits
 
-### Day_02 -  No problems solved.
+### Day_02 - 1 Problem(s), 1 Executables
+- sumOfSubarrayRanges
 
-### Day_03 -  No problems solved.
+### Day_03 - 1 Problem(s), 1 Executables
+- slidingWindowMaximum
 
-### Day_04 -  No problems solved.
+### Day_04 - 1 Problem(s), 1 Executables
+- stockSpanProblem
 
-### Day_05 -  No problems solved.
+### Day_05 - 1 Problem(s), 1 Executables
+- celebrityProblem
 
 ### Day_06 -  No problems solved.
 
