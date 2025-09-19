@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 158
+**Total Solved Problems (CPP):** 164
 
-**Total Compiled Files (EXE):** 149
+**Total Compiled Files (EXE):** 155
 
 
 ---
@@ -345,11 +345,17 @@
 ---
 
 ## Week_11
-### Day_01 -  No problems solved.
+### Day_01 - 1 Problem(s), 1 Executables
+- treeRepresentation
 
-### Day_02 -  No problems solved.
+### Day_02 - 2 Problem(s), 2 Executables
+- treeBFStraversalIterative
+- treeBFStraversalRecursion
 
-### Day_03 -  No problems solved.
+### Day_03 - 3 Problem(s), 3 Executables
+- inOrderTraversal_DFS
+- perOrderTraversal_DFS
+- postOrderTraversal_DFS
 
 ### Day_04 -  No problems solved.
 
