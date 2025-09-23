@@ -14,25 +14,22 @@ struct TreeNode
     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
 };
 
-int height(TreeNode *root)
-{
-    if (root == nullptr)
-        return 0;
-    return 1 + std::max(height(root->left), height(root->right));
+int checkHeight(TreeNode* root) {
+    if (root == nullptr) return 0;
+
+    int leftHeight = checkHeight(root->left);
+    if (leftHeight == -1) return -1;
+
+    int rightHeight = checkHeight(root->right);
+    if (rightHeight == -1) return -1;
+
+    if (std::abs(leftHeight - rightHeight) > 1) return -1;
+
+    return 1 + std::max(leftHeight, rightHeight);
 }
 
-bool isBalanced(TreeNode *root)
-{
-    int heightLeft = height(root->left);
-    int heightRight = height(root->right);
-
-    if (abs(heightLeft - heightRight) > 1)
-    {
-        return false;
-    }
-
-    // must also check subtrees
-    return isBalanced(root->left) && isBalanced(root->right);
+bool isBalanced(TreeNode* root) {
+    return checkHeight(root) != -1;
 }
 
 int main()
