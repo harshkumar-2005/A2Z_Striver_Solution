@@ -1,9 +1,9 @@
 #  Striver A2Z Progress Log
 
 
-**Total Solved Problems (CPP):** 164
+**Total Solved Problems (CPP):** 171
 
-**Total Compiled Files (EXE):** 155
+**Total Compiled Files (EXE):** 163
 
 
 ---
@@ -129,7 +129,7 @@
 ### Day_03 - 1 Problem(s), 1 Executables
 - splitArrayLargestSum
 
-### Day_04 - 1 Problem(s), 0 Executables
+### Day_04 - 1 Problem(s), 1 Executables
 - minimizeMaxDistanceToGasStation
 
 ### Day_05 - 2 Problem(s), 2 Executables
@@ -357,21 +357,28 @@
 - perOrderTraversal_DFS
 - postOrderTraversal_DFS
 
-### Day_04 -  No problems solved.
+### Day_04 - 1 Problem(s), 1 Executables
+- heightOfBinaryTree
 
-### Day_05 -  No problems solved.
+### Day_05 - 1 Problem(s), 1 Executables
+- nodesAt_k_Distance
 
-### Day_06 -  No problems solved.
+### Day_06 - 1 Problem(s), 1 Executables
+- sizeOfABinaryTree
 
-### Day_07 -  No problems solved.
+### Day_07 - 1 Problem(s), 1 Executables
+- maximumInBinaryTree
 
 
 ---
 
 ## Week_12
-### Day_01 -  No problems solved.
+### Day_01 - 2 Problem(s), 2 Executables
+- printLeftViewOfBinaryTree-Method1
+- printLeftViewOfBinaryTree-Method2
 
-### Day_02 -  No problems solved.
+### Day_02 - 1 Problem(s), 1 Executables
+- checkForBalancedBinaryTree
 
 ### Day_03 -  No problems solved.
 
